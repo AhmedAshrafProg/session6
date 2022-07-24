@@ -1,0 +1,35 @@
+.logo1{
+    display:flex;
+    justify-content:space-between;
+}
+
+.logo1 h1{ 
+    display:inline-block;
+    margin-left:30px;
+    margin-top:20px;
+}
+
+.logo1 .search1{
+    margin-top:40px;
+    margin-right:50px;
+    margin-bottom:20px;
+}
+.logo1 .search1 input{
+    padding:5px 10px;
+    margin:-25px;
+}
+.navbar .navbar-brand{
+    padding-right:20px;
+    padding-left:40px;
+}
+.navbar li{
+    padding-right:10px;
+    padding-left:20px; 
+}
+
+
+
+#myimage1 img{
+    max-width:100%;
+    margin-bottom:30px;
+}
